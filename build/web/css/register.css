@@ -1,0 +1,24 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Oct 12, 2022, 3:20:22 PM
+    Author     : luffy
+*/
+
+.body{
+    height: 107vh;
+    padding-bottom: 50px;
+}
+.login-container {
+    width: 400px;
+}
+
+.login-container .login-title {
+    font-size: 1.5rem;
+}
+
+.login-container .login-btn {
+    width: 200px;
+}

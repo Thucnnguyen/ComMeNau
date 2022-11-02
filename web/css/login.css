@@ -1,0 +1,27 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 12, 2022, 11:21:05 AM
+    Author     : PC
+*/
+.login-card{
+    height: 400px;
+    margin-top: 40px;
+}
+.body{
+    height: 73vh;
+}
+.login-container {
+    width: 400px;
+}
+
+.login-container .login-title {
+    font-size: 1.5rem;
+}
+
+.login-container .login-btn {
+    width: 200px;
+}

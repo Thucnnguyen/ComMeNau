@@ -1,0 +1,12 @@
+* {
+    font-family: 'nunito';
+}
+
+@font-face{
+    font-family: geometric;
+    src: url("../GMV.ttf");
+}
+@font-face{
+    font-family: nunito;
+    src: url("../NunitoSans.ttf")
+}

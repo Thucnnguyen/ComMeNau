@@ -1,0 +1,94 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 14, 2022, 2:58:19 PM
+    Author     : PC
+*/
+
+.HistoryPage h1{
+    text-align: center;
+    padding-bottom: 18px;
+}
+.HistoryPage{
+    height: 100vh;
+}
+
+/*Category*/
+.userInfo-list {
+    padding-top: 8px;
+    text-decoration: none;
+    list-style: none;
+    border-right: 1px solid;
+    margin-right: 110px;
+    height: 190px;
+}
+.category-name-link{
+     text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+.category{
+    margin-right: 5px;
+}
+.category-name-link:hover{
+    text-decoration: none;
+    font-weight: bold;
+}
+.Img-date{
+    padding-left: 15px;
+    position: relative;
+    font-size: 21px;
+}
+
+/*History pruchase*/
+.purchage-box{
+    font-size: 18.5px;
+    display: flex;
+    border: 1px solid;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    background-color: white;
+    width: 89%;
+}
+.ID{
+    font-weight: bolder;
+}
+.Date{
+    position: absolute;
+    bottom: 0;
+}
+.Price{
+    font-weight: bold;
+    font-size: 21.9px;
+    color: red;
+}
+.right{
+    text-align: right;
+    float: right;
+    margin-left: auto;
+}
+.right img{
+    border-radius: 10px;
+    border: 0.5px solid;
+    width:310px ;
+    height:170px;
+}
+
+/*Foot*/
+.Foot{
+    position: relative;
+}
+.footer{
+    position: absolute;
+    bottom: 0px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    width: 100%;
+    text-align: center;
+    padding-top: 15px;
+}

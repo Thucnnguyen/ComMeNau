@@ -1,0 +1,153 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 14, 2022, 2:57:31 PM
+    Author     : PC
+*/
+.head{
+    width: 100%;
+    top: 0;
+    display: flex;
+    align-items: baseline;
+}
+li a{
+    text-decoration: none;
+    font-size: 21px;
+}
+.head li{
+    text-decoration: none;
+    list-style: none;
+}
+.Detail{
+    margin-left: 145px;
+}
+.head h2{
+    text-align: center;
+    padding: auto;
+}
+.Home{
+    text-decoration: none;
+    list-style: none;
+    text-align: left;
+    float: left;
+    margin-right: auto;
+}
+.Home li{
+    padding: 15px;
+}
+.Login-Signup{
+    text-decoration: none;
+    list-style: none;
+    text-align: right;
+    float: right;
+    margin-left: auto;
+    display: flex;
+}
+.Login-Signup li{
+    padding: 15px;
+}
+
+/*SLIDE IMAGE*/
+.main img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 850px;
+    height: 370px;
+}
+.advertise-img{
+    background-color: #f1f1f1;
+}
+/*.Category{
+    padding-top: 45px;
+    list-style: none;
+}
+.Category li{
+    padding-bottom: 10px;
+}
+.Category a{
+    font-size: 17px;
+    color: black;
+}*/
+
+
+/*SMALL PICTURE FOOD LEFT*/
+.imageinfo{
+    padding-top: 15px;
+    padding-left: 35px;
+}
+.imageinfo img{
+    float: left;
+    width: 250px;
+    height: 330px;
+    border-radius: 15px;
+    border: 1px solid;
+}
+
+/*FOOD INFO*/
+.Food-info h3{
+    text-align: center;
+}
+.food-ingre{
+    align-items: baseline;
+}
+.Food-info p{
+    font-size: 15px;
+}
+.list-ingre{
+    padding-top: 13.5px;
+}
+.food-nutr{
+    align-items: baseline;
+}
+.nutr-info{
+    padding-top: 13px;
+}
+.price-add h2{
+    font-weight: bold;
+    color: red;
+}
+.price-add input[type=submit]{
+/*    margin-top: 5px;*/
+}
+input[type=submit]{
+    background-color: red;
+    border: 2px solid;
+/*    color: white;*/
+    padding: 15px;
+    border-radius: 10px;
+    font-size: 20px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+input[type=submit]:hover{
+    background-color: green;
+}
+.add-cart{
+     text-align: right;
+    float: right;
+    margin-left: auto;
+    padding-right: 80px;
+}
+.A32d{
+    width: 110px;
+}
+
+/*FOOT*/
+.foot{
+    margin-top: 5%;
+    position: relative;
+}
+.footer{
+    position: absolute;
+    bottom: 0px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    width: 100%;
+    text-align: center;
+    padding-top: 15px;
+}
